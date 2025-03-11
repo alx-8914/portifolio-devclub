@@ -6,7 +6,7 @@
 <div>
   <h2>Layout Completo do Portifólio;</h2>
   <img src="./img/home.png">
-  <img src="./img/projeto.png">
+  <img src="./img/projetos.png">
   <img src="./img/sobre.png">
   <img src="./img/contato.png">
 </div>
